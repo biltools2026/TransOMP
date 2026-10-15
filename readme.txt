@@ -10,6 +10,11 @@ Performance
 The model was trained on a data set consisting of structurally known OMPs.
 And the accuracy of the model exceeds 80%.
 
+Install
+You should install Perl and Java before you running the program.
+Meanwhile, the path of java program ($jpath) in the omprun.pl script 
+should be changed according to the installed Java in your computer.
+
 Running example:
 
 First, you should enter the directory of the program and run
